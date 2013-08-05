@@ -7,6 +7,10 @@
   },
   "devDependencies": {
     "angular-mocks": "~1.0.7",
-    "angular-scenario": "~1.0.7"
+    "angular-scenario": "~1.0.7",
+    "sinon": "~1.7.3",
+    "chai": "~1.7.2",
+    "sinon-chai": "~2.4.0"
+
   }
 }

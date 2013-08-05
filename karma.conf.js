@@ -12,7 +12,15 @@ files = [
   'app/scripts/*.js',
   'app/scripts/**/*.js',
   'test/mock/**/*.js',
-  'test/spec/**/*.js'
+  'test/spec/**/*.js',
+  'app/bower_components/sinon/lib/sinon.js',
+  'app/bower_components/sinon/lib/sinon/call.js',
+  'app/bower_components/sinon/lib/sinon/spy.js',
+  'app/bower_components/sinon/lib/sinon/stub.js',
+  'app/bower_components/sinon/lib/sinon/match.js',
+  'app/bower_components/chai/chai.js',
+  'app/bower_components/sinon-chai/lib/sinon-chai.js',
+  'test/chai-should.js'
 ];
 
 // list of files to exclude
