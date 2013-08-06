@@ -1,5 +1,9 @@
 <div class="hero-unit">
   <h1>Tic Tac Toe</h1>
+  <div>
+    <button ng-click="newGame()">New Game</button>
+    <span ng-show="winner">{{winner}} has won!!</span>
+  </div>
 
   <table id="board">
     <tr>

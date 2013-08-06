@@ -1,10 +1,14 @@
+body {
+    background-color: #eee;
+    margin: 0;
+}
+
 .hero-unit {
     margin: 0px auto 0 auto;
     width: 400px;
     font-size: 18px;
     font-weight: 200;
     line-height: 30px;
-    background-color: #eee;
     border-radius: 6px;
     padding: 10px;
 }
