@@ -7,6 +7,7 @@ To run these tests
 ```bash
 git clone https://github.com/alexrothenberg/angular-tic-tac-toe
 npm install
+bower install
 grunt test
 ```
 
